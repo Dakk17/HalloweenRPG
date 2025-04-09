@@ -1,0 +1,40 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Visual Studio Code workspace files
+*.code-workspace
+
+# Other files to ignore
+*.pdb
+*.mdb
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.appxupload
+*.vsix
+*.cache
+*.log
+
+# Temporary files
+*.tmp
+*.temp
