@@ -31,3 +31,7 @@ Textová RPG hra s boji v aréně a nakupováním vybavení. Hráč bojuje, leve
    - Náhodně generované předměty  
    - Nákup za goldy  
    - Předměty se ihned ukládají do inventáře  
+
+**Klonujte repozitář**
+   ```bash
+   git clone https://github.com/Dakk17/HalloweenRPG.git
